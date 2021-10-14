@@ -1,0 +1,14 @@
+C:\Users\RRaczak\source\repos\GC_ATM\GC_ATM\bin\Debug\netcoreapp3.1\GC_ATM.exe
+C:\Users\RRaczak\source\repos\GC_ATM\GC_ATM\bin\Debug\netcoreapp3.1\GC_ATM.deps.json
+C:\Users\RRaczak\source\repos\GC_ATM\GC_ATM\bin\Debug\netcoreapp3.1\GC_ATM.runtimeconfig.json
+C:\Users\RRaczak\source\repos\GC_ATM\GC_ATM\bin\Debug\netcoreapp3.1\GC_ATM.runtimeconfig.dev.json
+C:\Users\RRaczak\source\repos\GC_ATM\GC_ATM\bin\Debug\netcoreapp3.1\GC_ATM.dll
+C:\Users\RRaczak\source\repos\GC_ATM\GC_ATM\bin\Debug\netcoreapp3.1\GC_ATM.pdb
+C:\Users\RRaczak\source\repos\GC_ATM\GC_ATM\obj\Debug\netcoreapp3.1\GC_ATM.csproj.AssemblyReference.cache
+C:\Users\RRaczak\source\repos\GC_ATM\GC_ATM\obj\Debug\netcoreapp3.1\GC_ATM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RRaczak\source\repos\GC_ATM\GC_ATM\obj\Debug\netcoreapp3.1\GC_ATM.AssemblyInfoInputs.cache
+C:\Users\RRaczak\source\repos\GC_ATM\GC_ATM\obj\Debug\netcoreapp3.1\GC_ATM.AssemblyInfo.cs
+C:\Users\RRaczak\source\repos\GC_ATM\GC_ATM\obj\Debug\netcoreapp3.1\GC_ATM.csproj.CoreCompileInputs.cache
+C:\Users\RRaczak\source\repos\GC_ATM\GC_ATM\obj\Debug\netcoreapp3.1\GC_ATM.dll
+C:\Users\RRaczak\source\repos\GC_ATM\GC_ATM\obj\Debug\netcoreapp3.1\GC_ATM.pdb
+C:\Users\RRaczak\source\repos\GC_ATM\GC_ATM\obj\Debug\netcoreapp3.1\GC_ATM.genruntimeconfig.cache
